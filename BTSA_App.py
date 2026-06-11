@@ -680,4 +680,10 @@ if st.button("🔍 Calcular resultado", type="primary", use_container_width=True
         use_container_width=True,
     )
 
+    st.divider()
+    st.markdown(
+        "📺 ¿Querés saber más sobre los estilos de pensamiento? "
+        "[Mirá este video](https://www.youtube.com/watch?v=QsU74dRUKN4)"
+    )
+
 

@@ -11,7 +11,7 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image as RLImage
 )
 
-st.set_page_config(page_title="Cuestionario BTSA - Estilos de Pensamiento", layout="centered", page_icon="✍🏽", layout("wide"))
+st.set_page_config(page_title="Cuestionario BTSA - Estilos de Pensamiento", layout="centered", page_icon="✍🏽", layout="wide")
 
 # ----------------------------------------------------------------------
 # DATOS DE CADA MODO
